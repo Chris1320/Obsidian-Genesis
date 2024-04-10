@@ -1,0 +1,20 @@
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "spellcheck": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Media",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Meta/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

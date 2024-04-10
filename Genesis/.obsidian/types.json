@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Date": "date",
+    "Birthdate": "date",
+    "Date Known": "date",
+    "Dream Clarity": "number",
+    "Awareness": "number",
+    "Dream Control": "number",
+    "Lucidity Achieved": "checkbox",
+    "Day": "text",
+    "home location": "text",
+    "email addresses": "multitext",
+    "last modified": "datetime",
+    "time": "datetime",
+    "phone numbers": "multitext",
+    "interests": "multitext",
+    "weather": "multitext",
+    "themes": "multitext"
+  }
+}

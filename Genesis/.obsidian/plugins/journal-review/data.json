@@ -1,0 +1,28 @@
+{
+  "timeSpans": [
+    {
+      "number": 1,
+      "unit": "month",
+      "recurring": false
+    },
+    {
+      "number": 6,
+      "unit": "month",
+      "recurring": false
+    },
+    {
+      "number": 1,
+      "unit": "year",
+      "recurring": true
+    }
+  ],
+  "dayMargin": 0,
+  "previewLength": 100,
+  "useHumanize": true,
+  "useCallout": true,
+  "useQuote": true,
+  "openInNewPane": false,
+  "showNoteTitle": true,
+  "useNotifications": true,
+  "date": "2024-04-09T16:00:54.491Z"
+}

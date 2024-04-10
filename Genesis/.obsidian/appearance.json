@@ -1,0 +1,11 @@
+{
+  "accentColor": "#6bef9e",
+  "cssTheme": "AnuPpuccin",
+  "baseFontSizeAction": false,
+  "translucency": false,
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "obsidian-blur-plugin"
+  ],
+  "theme": "obsidian"
+}

@@ -1,0 +1,766 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "54945e893652da0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e7fc74b83274646",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c42ae29a89ba914c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Home.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0c222153c439854a",
+        "type": "split",
+        "children": [
+          {
+            "id": "d2849294765608c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1506e912a8324d2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e592fd01f4008b55",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "10840c061db5eea8",
+        "type": "split",
+        "children": [
+          {
+            "id": "2df12c47b1446b72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "187b6870537c2a67",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Home.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "[\"type\":entry]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 16376495
+                          }
+                        },
+                        {
+                          "query": "[\"type\":note]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 13346551
+                          }
+                        },
+                        {
+                          "query": "[\"type\":person]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9757397
+                          }
+                        },
+                        {
+                          "query": "[\"type\":dream]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9024762
+                          }
+                        },
+                        {
+                          "query": "path:Media",
+                          "color": {
+                            "a": 1,
+                            "rgb": 7106694
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6316046762907493,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "70c410b15ae89bf4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c2c6e7026f61b617",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "dae897ed386cebe3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Home.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "684620c449b43604",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e2d4ee628cce4ce",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "05725c3e9e55c96b",
+                "type": "leaf",
+                "state": {
+                  "type": "on-this-day-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bce3269330f2b8f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "54f15b34f1641261",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": true,
+          "switcher:Open quick switcher": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "homepage:Open homepage": false,
+          "daily-notes:Open today's daily note": false,
+          "mood-tracker:Open Mood Tracker": false,
+          "audio-recorder:Start/stop recording": false,
+          "journal-review:Open 'On this day' view": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "random-note:Open random note": false,
+          "mood-tracker:Open Mood Tracking History": false,
+          "command-palette:Open command palette": false
+        }
+      },
+      "active": "c42ae29a89ba914c",
+      "mtime": "2024-04-10T13:02:14+08:00"
+    },
+    "Graph View": {
+      "main": {
+        "id": "54945e893652da0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "8da4d3370ed2254e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b522940baff0227b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0c222153c439854a",
+        "type": "split",
+        "children": [
+          {
+            "id": "d2849294765608c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1506e912a8324d2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e592fd01f4008b55",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "10840c061db5eea8",
+        "type": "split",
+        "children": [
+          {
+            "id": "2df12c47b1446b72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40bbe70d8bb8cc66",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "[\"type\":entry]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15128196
+                          }
+                        },
+                        {
+                          "query": "[\"type\":note]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15114577
+                          }
+                        },
+                        {
+                          "query": "[\"type\":person]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14842329
+                          }
+                        },
+                        {
+                          "query": "[\"type\":dream]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 7975122
+                          }
+                        },
+                        {
+                          "query": "path:Media",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9460314
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.25883865621816315,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "dae897ed386cebe3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {}
+                }
+              },
+              {
+                "id": "70c410b15ae89bf4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c2c6e7026f61b617",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "684620c449b43604",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e2d4ee628cce4ce",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bce3269330f2b8f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "54f15b34f1641261",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "05725c3e9e55c96b",
+                "type": "leaf",
+                "state": {
+                  "type": "on-this-day-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "homepage:Open homepage": false,
+          "daily-notes:Open today's daily note": false,
+          "mood-tracker:Open Mood Tracker": false,
+          "audio-recorder:Start/stop recording": false,
+          "journal-review:Open 'On this day' view": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "random-note:Open random note": false,
+          "mood-tracker:Open Mood Tracking History": false,
+          "command-palette:Open command palette": false
+        }
+      },
+      "active": "b522940baff0227b",
+      "mtime": "2024-04-10T12:57:18+08:00"
+    },
+    "Genealogy Tree": {
+      "main": {
+        "id": "54945e893652da0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0202bad063971d78",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6526c582def8f22f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Meta/Genealogy.canvas",
+                    "viewState": {
+                      "x": -830,
+                      "y": -680,
+                      "zoom": -2.4594316186372973
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "0c222153c439854a",
+        "type": "split",
+        "children": [
+          {
+            "id": "d2849294765608c9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d1506e912a8324d2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e592fd01f4008b55",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "10840c061db5eea8",
+        "type": "split",
+        "children": [
+          {
+            "id": "2df12c47b1446b72",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40bbe70d8bb8cc66",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Meta/Genealogy.canvas",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": true,
+                      "showAttachments": true,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "[\"type\":entry]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15128196
+                          }
+                        },
+                        {
+                          "query": "[\"type\":note]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 15114577
+                          }
+                        },
+                        {
+                          "query": "[\"type\":person]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14842329
+                          }
+                        },
+                        {
+                          "query": "[\"type\":dream]",
+                          "color": {
+                            "a": 1,
+                            "rgb": 7975122
+                          }
+                        },
+                        {
+                          "query": "path:Media",
+                          "color": {
+                            "a": 1,
+                            "rgb": 9460314
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.25883865621816315,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "dae897ed386cebe3",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Meta/Genealogy.canvas"
+                  }
+                }
+              },
+              {
+                "id": "70c410b15ae89bf4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Meta/Genealogy.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c2c6e7026f61b617",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Meta/Genealogy.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "684620c449b43604",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e2d4ee628cce4ce",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "bce3269330f2b8f9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "54f15b34f1641261",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "05725c3e9e55c96b",
+                "type": "leaf",
+                "state": {
+                  "type": "on-this-day-view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:Create new canvas": true,
+          "switcher:Open quick switcher": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "homepage:Open homepage": false,
+          "daily-notes:Open today's daily note": false,
+          "mood-tracker:Open Mood Tracker": false,
+          "audio-recorder:Start/stop recording": false,
+          "journal-review:Open 'On this day' view": false,
+          "graph:Open graph view": false,
+          "workspaces:Manage workspace layouts": false,
+          "random-note:Open random note": false,
+          "mood-tracker:Open Mood Tracking History": false,
+          "command-palette:Open command palette": false
+        }
+      },
+      "active": "6526c582def8f22f",
+      "mtime": "2024-04-10T12:54:51+08:00"
+    }
+  },
+  "active": "Default"
+}

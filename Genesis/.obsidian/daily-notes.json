@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/MM - MMMM/YYYY-MM-DD\\E",
+  "folder": "Entries",
+  "template": "Meta/Templates/Entry",
+  "autorun": false
+}

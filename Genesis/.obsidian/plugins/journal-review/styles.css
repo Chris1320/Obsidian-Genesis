@@ -1,0 +1,50 @@
+/* src/styles-settings.css */
+.mod-settings .time-spans-container {
+  padding: 0;
+}
+.mod-settings .time-spans-container > li {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 1rem;
+  &:not(:last-child) {
+    margin-block-end: 1rem;
+  }
+  & .setting-item {
+    flex-direction: column;
+    gap: 1rem;
+    padding-top: 0;
+    border-top: none;
+    & .setting-item-name {
+      display: none;
+    }
+    & .setting-item-description {
+      color: var(--text-normal);
+      font-size: var(--font-ui-medium);
+      padding-top: 0;
+      line-height: var(--line-height-normal);
+    }
+  }
+}
+
+/* src/styles.css */
+#journal-review > h2 {
+  margin-top: 0;
+}
+#journal-review .list {
+  list-style: none;
+  padding: 0;
+  &:empty:before {
+    content: "nothing to show";
+  }
+  &.notes > li {
+    cursor: pointer;
+    &:has(.callout) {
+      transition: transform 0.5s ease-out;
+      &:hover {
+        transform: translateY(-0.25rem);
+        transition: transform 0.5s ease-out;
+      }
+    }
+  }
+}
